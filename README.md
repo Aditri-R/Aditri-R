@@ -71,5 +71,5 @@ Modern SaaS landing page focused on product storytelling and conversion.
 ### 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/aditri-rathore-31b282310
-- 🌐 Portfolio: 
+- 🌐 Portfolio: under improvements!
 - 📧 *aditri.rathore4@gmail.com*
