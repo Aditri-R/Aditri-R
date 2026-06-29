@@ -10,7 +10,7 @@ Building AI-powered products with a passion for clean design and meaningful user
 
 I'm a B.Tech student in **Electronics & Communication Engineering (Data Science)** at **SRM Institute of Science and Technology**.
 
-I enjoy working where **AI, data, and design intersect**—building products that solve real problems through intelligent systems and intuitive interfaces. From computer vision applications to analytics dashboards and end-to-end UI/UX designs, I'm always looking for opportunities to learn by creating.
+I enjoy working where **AI, data, and design intersect**, building products that solve real problems through intelligent systems and intuitive interfaces. From computer vision applications to analytics dashboards and end-to-end UI/UX designs, I'm always looking for opportunities to learn by creating.
 
 ---
 
@@ -28,7 +28,7 @@ I enjoy working where **AI, data, and design intersect**—building products tha
 
 **Languages**
 
-`Python` • `SQL` • `C++` • `Java`
+`Python` • `SQL` • `C++` 
 
 **AI & Data**
 
